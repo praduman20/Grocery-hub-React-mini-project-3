@@ -1,7 +1,7 @@
 # React mini project 3 - Grocery Bud
-React Calculator App: A responsive calculator application crafted with React, offering basic arithmetic calculations with a modern, user-friendly interface.
+React Grocery App: A grocery management application built with React. Easily add, edit, and delete grocery items from your shopping list. Concepts used - useEffect hook , useState hook , react-icons , Local Storage(to store and access data from the current origin's local storage space).
 
-## Demo Link - https://calculating-made-easy.netlify.app/
+## Demo Link - https://grocery-sorted.netlify.app/
 
 ## Screenshots - 
 
