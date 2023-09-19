@@ -5,7 +5,9 @@ React Calculator App: A responsive calculator application crafted with React, of
 
 ## Screenshots - 
 
-<img width="928" alt="Screenshot 2023-09-15 at 12 01 08 AM" src="https://github.com/praduman20/Calculator-React-mini-project-2/assets/87388316/a377a94c-0381-40d3-a5b1-51698ac7bb10">
+<img width="710" alt="Screenshot 2023-09-19 at 3 45 23 PM" src="https://github.com/praduman20/Grocery-hub-React-mini-project-3/assets/87388316/4d037eb1-f290-4427-90cf-86b7ca749b01">
+
+<img width="819" alt="Screenshot 2023-09-19 at 3 46 26 PM" src="https://github.com/praduman20/Grocery-hub-React-mini-project-3/assets/87388316/9afd1065-fdd2-45b0-bde1-bccf6a5fa3c0">
 
 
 ## Setup Instructions -
